@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e2616b7-0faa-434e-a985-642b62c4236d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bai2/.idea/Bai2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/INPUT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/action.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/bieumau.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/nhomdulieu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/.idea/bai1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/anhdep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/bai 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/bia3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/giadinh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/style.css.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covua/.idea/covua.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covua/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covua/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covua/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covua/covua.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covua/covua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covua/lich.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covua/lich.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formkhachhang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascrip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nhungjavascrip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tablebasic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tablebasic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tablebasic/.idea/tablebasic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tablebasic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tablebasic/T0908I.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tablebasic/T0908I.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tablebasic/TKB.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tablebasic/TKB1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tablebasic/tablebasic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tablebasic/tablebasic.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Y15kDbUMOFxDbWTLjWQpL907OB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BienKieuDL/DienTichHtron.html" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e2616b7-0faa-434e-a985-642b62c4236d" name="Default Changelist" comment="" />
+      <created>1582097400147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582097400147</updated>
+      <workItem from="1582097401361" duration="6592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582100504203">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1582100504203" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582099825446">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1582099825446" />
+  </component>
+</project>

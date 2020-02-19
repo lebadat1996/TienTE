@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chuyen Doi Tien Te</title>
+    <link rel="stylesheet" href="TienTe.css"/>
+</head>
+<body>
+<div>
+    <table >
+        <tr>
+            <th>Amount</th>
+            <th>Fromcurrency</th>
+            <th>USD</th>
+        </tr>
+        <tr>
+            <td><input type="text" id="nhapSoTien"/></td>
+            <td><select id="select1">
+                    <option value="VND">Vietnam</option>
+                    <option value="USD">USD</option>
+                </select>
+            </td>
+            <td>
+                <select id="select2">
+                    <option value="VND">Vietnam</option>
+                    <option value="USD">USD</option>
+                </select>
+            </td>
+            <td>   <button onclick="chuyendoiTien()">Convert</button> </td>
+        </tr>
+    </table>
+    <p id="chuyendoi"></p>
+</div>
+<script src="TienTe.js"></script>
+</body>
+</html>
